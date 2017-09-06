@@ -1,0 +1,30 @@
+{
+	"name" : "sn01615/array2xml",
+	"description" : "Convert PHP array to XML",
+	"type" : "library",
+	"license" : "GPL-3.0",
+	"authors" : [{
+			"name" : "YangLong",
+			"email" : "168119405@qq.com"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"PhpUtils\\" : "src"
+		}
+	},
+	"support" : {
+		"source" : "https://github.com/jmarceli/array2xml",
+		"issues" : "https://github.com/jmarceli/array2xml/issues",
+		"email" : "168119405@qq.com"
+	},
+	"keywords" : [
+		"array2xml"
+	],
+	"repositories" : [{
+			"type" : "git",
+			"url" : "git@github.com:jmarceli/array2xml.git",
+			"name" : "GitHub"
+		}
+	]
+}
